@@ -1,6 +1,12 @@
 # Artificial Intelligence Labs
 
-This repository contains my completed laboratory assignments for the Artificial Intelligence course as part of my BSCS degree.
+
+## Muhammad Ajmal Khan
+## Roll No. 28
+## BS Computer Science
+## Semester 4th
+## Instructor: Sir Imran Ali
+This repository contains my completed lab assignments for the Artificial Intelligence course as part of my BSCS degree.
 
 ## Lab Assignments
 
@@ -17,7 +23,7 @@ Each lab has its own directory containing its implementation files, source code,
 
 ## Purpose
 
-The purpose of this repository is to organize and maintain all AI laboratory assignments in one place for academic submission and future reference.
+The purpose of this repository is to organize and maintain all AI lab assignments in one place for academic submission and future reference.
 
 **Course:** Artificial Intelligence  
 **Program:** BS Computer Science
