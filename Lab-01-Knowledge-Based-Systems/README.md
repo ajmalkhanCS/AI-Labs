@@ -4,7 +4,7 @@ This folder contains the files and implementation for Lab 1.
 
 Knowledge-base and Inference Engine Lab + tracing forward chainmodify evaluate function
 
-# Lab 01: Knowledge-Based Systems (KBS)
+
 
 ## Part 2: Hands-On Student Exercises
 
