@@ -8,7 +8,7 @@ This repository contains my completed laboratory assignments for the Artificial 
 |---|---|
 | Lab 1 | [Knowledge-Based Systems ](https://github.com/ajmalkhanCS/AI-Labs/tree/main/Lab-01-Knowledge-Based-Systems)|
 | Lab 2 | [Uninformed Search ](https://github.com/ajmalkhanCS/AI-Labs/tree/main/Lab-02-Uninformed-Search)|
-| Lab 3 | Informed Search |
+| Lab 3 | [Informed Search](https://github.com/ajmalkhanCS/AI-Labs/tree/main/Lab-03-Informed-Search) |
 | Lab 4 | Hill-Climbing Search with the N-Queens Problem |
 
 ## Repository Structure
